@@ -28,3 +28,11 @@ The application uses MySQL as a database backend. Two tables are created:
 1. Run the application.
 2. Use the provided GUI to register customers, calculate ticket prices, and display customer details.
 3. Exit the application when done.
+
+## Working Video
+
+
+https://github.com/Prasadkadam03/airline-ticket-manager-mysql-python-tkinterGUI/assets/125743357/cc64aaa3-29c6-4829-9b62-d8dbbed42c88
+
+
+
