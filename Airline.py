@@ -3,7 +3,7 @@ from tkinter import messagebox
 import tkinter as tk
 from tkinter import ttk
 
-mydb = mysql.connector.connect(host="localhost", user="root", password="8055", charset="utf8")
+mydb = mysql.connector.connect(host="localhost", user="root", password="Password", charset="utf8")
 mycursor = mydb.cursor()
 AirlineD = 'create database if not exists Airline'
 AirlineU = 'use Airline'
